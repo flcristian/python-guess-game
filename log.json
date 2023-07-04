@@ -1,10 +1,22 @@
 [
     {
-        "name": "Marius",
-        "score": 0
+        "name": "Adam",
+        "score": 13
     },
     {
         "name": "Ruski",
+        "score": 13
+    },
+    {
+        "name": "George",
+        "score": 9
+    },
+    {
+        "name": "Marius",
+        "score": 4
+    },
+    {
+        "name": "Mihai",
         "score": 1
     }
 ]
